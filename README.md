@@ -35,13 +35,11 @@
    <h2>Why Use This Mod?</h2>
    <p>No clue honestly, do whatever you want ¯\_(ツ)_/¯</p>
 
-   <h2>Why Not Open Source?</h2>
-   <p>I have some parts of the mod (like my pathfinding) that I don’t want to release.  
-
 
    <h2>Is This Mod a Rat?</h2>
     <p>What do you expect me to say? Just be smart and decide for yourself.</p>
    It’s not a rat — and if it were, I obviously wouldn’t admit it here 🤦‍♂️  
+    Its also open source so you can look for yourself ;)
    <br><strong>Use at your own risk.</strong></p>
 
    <h2>Updates</h2>

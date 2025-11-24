@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "schwitzershelp",
+    "name": "${name}",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcVersionStr}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "ARandomGuyOutSide"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7",
+  "package": "com.schwitzer.schwitzersHelp.mixin",
+  "refmap": "mixins.${id}.refmap.json",
+  "injectors": {
+    "maxShiftBy": 5
+  },
+  "mixins":
+  [
+    "gui.MixinGuiMainMenu"
+  ],
+  "client": [
+    "gui.MixinGuiMainMenu"
+  ],
+  "verbose": true
+}
